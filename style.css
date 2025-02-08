@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    margin:5px;
+    padding:5px;
+
+}
+
+header {
+    background-color:skyblue;
+    color:black;
+    border-radius:15px;
+    margin:10px;
+    padding:10px;
+}
+
+header a {
+    color:blue;
+}
+
+h1 {
+    text-align:center;
+    color:orchid;
+    border:5px solid blueviolet;
+    border-radius:20px;
+    background-color:aquamarine;
+}
+
+footer {
+    background-color:white;
+}
+
+footer p {
+    background-color:palevioletred;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+}
+
+nav {
+    border:5px solid black;
+    border-radius:15px;
+    padding:10px;
+    margin:10px;
+    background-color:darkgreen;
+    text-align:center;
+    font-size:25px;
+}
+
+.jegr {
+    border:5px solid blueviolet;
+    border-radius:15px;
+    background-color:aquamarine;
+}
+.contact {
+    text-decoration:none;
+    border:3px solid blue;
+    padding:10px;
+    margin:10px;
+}
+
+.naverh {
+    text-decoration:none;
+    border:5px solid blue;
+    padding:10px;
+    margin:10px;
+}
+
+.h2 {
+    color:blue;
+}
